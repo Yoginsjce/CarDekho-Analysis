@@ -57,5 +57,4 @@ To perform **Exploratory Data Analysis (EDA)** on the CarDekho dataset and visua
 
 ---
 
-## 📂 Folder Structure
 
